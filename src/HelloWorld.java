@@ -11,7 +11,7 @@ public class HelloWorld {
          System.out.println("No.");
          break;
         } else if(name.equalsIgnoreCase("no") || name.equalsIgnoreCase("n"));{
-         System.out.println("Correct.");
+         System.out.println(c.y + "Correct." + c.x);
          break;
         }
     }
