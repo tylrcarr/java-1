@@ -1,6 +1,6 @@
 import skilstak.c;
 import java.util.*;
-public class HelloWorld {
+public class nyan {
    public static void main(String[] args) {
     System.out.println(c.cl + c.y + "but do banana exist\n" + c.b + "answer the question\n" + c.x); 
     Scanner scanner = new Scanner(System.in);
