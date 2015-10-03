@@ -1,0 +1,31 @@
+{
+  "name": "bulbasaur",
+  "uid": "1",
+  "abilities": [ "overgrow", "chlorophyll"],
+  "types": [ "grass", "poison"],
+  "moves": ["tackle","growl","vine whip"],
+  "description": "",
+  "attack": 49,
+  "sp_attack": 65,
+  "defense": 49,
+  "sp_defense": 65,
+  "species": "seed",
+  "speed": 45,
+  "total": 318,
+  "catch_rate": 45,
+  "ev_yield": "1 sp atk",
+  "evolutions": [
+    {
+      "level": 16,
+      "method": "level up",
+      "to": "ivysaur"
+    }
+  ],
+  "exp": 64,
+  "growth_rate": "ms",
+  "happiness": 70,
+  "height": 0.7,
+  "eight": 6.9,
+  "hp": 45,
+  "mf_ratio": 87.5
+}
